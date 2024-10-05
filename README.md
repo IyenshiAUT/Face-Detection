@@ -19,3 +19,17 @@ Handles multiple faces in a single frame.
 𝑾𝒉𝒚 𝑭𝒂𝒄𝒆 𝑫𝒆𝒕𝒆𝒄𝒕𝒊𝒐𝒏?
 
 Face detection is a fundamental technology with numerous applications, from security systems to social media tagging. By building this project, I aimed to understand the principles behind machine learning and image processing.
+
+Before:
+<html>
+  <body>
+    <img src = "4.jfif" width=25%/>
+  </body>
+</html>
+
+After:
+<html>
+  <body>
+    <img src = "detected.jpeg" width=25%/>
+  </body>
+</html>
